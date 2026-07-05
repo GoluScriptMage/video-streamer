@@ -1,0 +1,19 @@
+{
+  "name": "video-streamer",
+  "version": "1.0.0",
+  "description": "Custom seekable HLS Video Streaming Server in TypeScript",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
