@@ -1,4 +1,6 @@
-# 🎬 Custom Just-In-Time HLS Video Streamer
+# 🎬 Custom Just-In-Time HLS Video Streamer\
+
+Live Working Demo Link - https://archi-grind-1.onrender.com/jit-player
 
 A high-performance Node.js & TypeScript media server that implements **on-the-fly (Just-In-Time) HLS transcoding**, progressive MP4 streaming with HTTP range requests, and dynamic **AES-128 encryption** for secure segment delivery.
 
